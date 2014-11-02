@@ -1,0 +1,15 @@
+import types
+print '-'*36
+print types.__doc__
+import sys
+print '-'*36
+print sys.__doc__
+import decimal
+print '-'*36
+print decimal.__doc__
+import os
+print '-'*36
+print os.__doc__
+import cmd
+print '-'*36
+print cmd.__doc__
