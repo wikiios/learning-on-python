@@ -1,0 +1,5 @@
+account log :
+ignore: could not convert string to float: previous balance
+ignore: could not convert string to float: debits
+ignore: Noneignore: Noneignore: could not convert string to float: credits
+ignore: Noneignore: Noneignore: could not convert string to float: finance charge/late fees
